@@ -3,7 +3,7 @@
 **Author:** Shreeram Y K  
 **ORCID:** [0009-0006-1579-7202](https://orcid.org/0009-0006-1579-7202)  
 **Contact:** shreeramyk55@gmail.com  
-**Status:** Submitted to Bioinformatics Advances (Oxford University Press)
+**Status:** Preprint in preparation
 
 ---
 
