@@ -1,0 +1,27 @@
+feature,H_statistic,p_value,significant
+length,27.58,4.4e-05,YES ***
+molecular_weight,38.71,0.0,YES ***
+isoelectric_point,17.78,0.003231,YES **
+gravy,27.77,4e-05,YES ***
+aromaticity,25.06,0.000136,YES ***
+instability_index,43.95,0.0,YES ***
+helix_fraction,19.59,0.001491,YES **
+turn_fraction,35.74,1e-06,YES ***
+sheet_fraction,12.71,0.026267,YES *
+positive_charge,25.5,0.000111,YES ***
+negative_charge,20.75,0.000902,YES ***
+net_charge,19.23,0.001741,YES **
+hydrophobic_pct,4.01,0.547873,no
+polar_pct,24.21,0.000198,YES ***
+cysteine_count,16.19,0.006326,YES **
+proline_count,52.38,0.0,YES ***
+pct_A,21.34,0.000699,YES ***
+pct_G,45.58,0.0,YES ***
+pct_L,7.78,0.168715,no
+pct_S,15.58,0.008146,YES **
+pct_T,8.67,0.123006,no
+pct_V,15.33,0.009034,YES **
+pct_P,54.21,0.0,YES ***
+pct_D,21.4,0.000682,YES ***
+pct_E,32.96,4e-06,YES ***
+pct_K,19.65,0.001451,YES **
