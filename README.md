@@ -2,7 +2,7 @@
 
 **Author:** Shreeram Yeladahalli Kalayya  
 **ORCID:** [0009-0006-1579-7202](https://orcid.org/0009-0006-1579-7202)  
-**Contact:** shreeramyk55@gmail.com  
+**Contact:** shreeramyk@gmail.com  
 ---
 
 ## Introduction
