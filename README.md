@@ -1,7 +1,6 @@
 # VP1 Physicochemical Features Predict Polyomavirus Host Specificity Across Vertebrates
 
 **Author:** Shreeram Yeladahalli Kalayya  
-**ORCID:** [0009-0006-1579-7202](https://orcid.org/0009-0006-1579-7202)  
 **Contact:** shreeramyk@gmail.com  
 ---
 
